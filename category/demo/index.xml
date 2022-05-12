@@ -5,12 +5,45 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 21:39:56 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>LaTex</title>
+      <link>https://example.com/post/latex/</link>
+      <pubDate>Thu, 12 May 2022 21:39:56 +0300</pubDate>
+      <guid>https://example.com/post/latex/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;LaTex&lt;/strong&gt;
+Как и в случае с TeX’ом — исходные файлы для LaTeX’а можно сравнить с программами. Документ LaTeX — это текстовый файл, содержащий специальные команды языка разметки. Сам документ делится на преамбулу и тело. Преамбула содержит информацию про класс документа, использованные пакеты макросов, определения макросов, автора, дату создания документа и другую информацию.Слова разделяются пробелами. Количество пробелов не имеет значения. Также пробелом считается единичный переход на новую строку. Пустые строки разделяют текст на абзацы. LaTeX — наиболее популярный набор макрорасширений (или макропакет) системы компьютерной вёрстки TeX, который облегчает набор сложных документов. В типографском наборе системы TeX форматируется традиционно как LAΤΕΧ. Важно заметить, что ни один из макропакетов для TeX’а не может расширить возможностей TeX (всё, что можно сделать в LaTeX’е, можно сделать и в TeX’е без расширений), но, благодаря различным упрощениям, использование макропакетов зачастую позволяет избежать весьма изощрённого программирования. Пакет позволяет автоматизировать многие задачи набора текста и подготовки статей, включая набор текста на нескольких языках, нумерацию разделов и формул, перекрёстные ссылки, размещение иллюстраций и таблиц на странице, ведение библиографии и др. Кроме базового набора существует множество пакетов расширения LaTeX. Первая версия была выпущена Лесли Лэмпортом в 1984 году; текущая версия, LaTeX2ε, после создания в 1994 году испытывала некоторый период нестабильности, окончившийся к концу 2000-х годов, а в настоящее время стабилизировалась (хотя раз в год выходит новая версия). Общий внешний вид документа в LaTeX определяется стилевым файлом. Существует несколько стандартных стилевых файлов для статей, книг, писем и т. д., кроме того, многие издательства и журналы предоставляют свои собственные стилевые файлы, что позволяет быстро оформить публикацию, соответствующую стандартам издания.Во многих развитых компьютерных аналитических системах, например, Maple, Mathematica, Maxima, Reduce возможен экспорт документов в формат *.tex. Для представления формул в Википедии также используется TeX-нотация. Термин LaTeX относится только к языку разметки, он не является текстовым редактором. Для того, чтобы создать документ с его помощью, надо набрать .tex-файл с помощью какого-нибудь текстового редактора. В принципе, подойдёт любой редактор, но большая часть людей предпочитает использовать специализированные, которые так или иначе облегчают работу по набору текста LaTeX-разметки. Будучи распространяемым под лицензией LaTeX Project Public License, LaTeX относится к свободному программному обеспечению.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя 2 Неделя</title>
+      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <pubDate>Thu, 12 May 2022 21:03:36 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
+&lt;h2 id=&#34;projects-&#34;&gt;projects: []&lt;/h2&gt;
+&lt;p&gt;Я не заметила, как прошла моя неделя. На этот раз я сделала лабораторные работы раньше положеного времени. То есть на выходных. Далее следовали будние дни.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Начало&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В понедельник я сходила на тренеровку , после чего,поехала гулять по Mоскве. Я съездила на Воробьёвы горы, и хотела прокатиться на канатной дорожке. Но, к сожалению, я пошла не потой стороне дороги ,и там был закрыт вход. Перейти на другую сторону у меня не хватало времени ,так как скоро должны были начаться пары. Поэтому вскоре, я покхала снова в общежитие. Во вторник,я снова с утра сходила на тренеровку. После чего, пришла в общежитие, и приготовила себе завтрак, потом пошла к подруге в гости.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Середина&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В среду я высыпалась, был максимально ленивый день. В четверг, я пошла в банк снять перевод от родителей.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Конец&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Сегодня пятница. Mогу сказать,что эта неделя прошла успешно. Было одинаково сложностей и отдыха.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Вывод&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Мне понравилась эта неделя. Было очень весело и круто!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя прошлая неделя.</title>
